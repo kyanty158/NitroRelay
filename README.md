@@ -9,10 +9,8 @@ NitroRelay は、飲み会やパーティーで 1 台の iPhone を回しなが�
 
 ## リンク
 
-- [マーケティングページ](https://YOUR_USERNAME.github.io/REPO_NAME/)
-- [サポートページ](https://YOUR_USERNAME.github.io/REPO_NAME/support/)
-
-※ GitHub Pages公開後、上記のURLを実際のものに更新してください。
+- [マーケティングページ](https://kyanty158.github.io/NitroRelay/)
+- [サポートページ](https://kyanty158.github.io/NitroRelay/support/)
 
 ## 開発
 
